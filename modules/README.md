@@ -1,6 +1,7 @@
-## AWS CloudFormation Samples
+## Modules
 
-This repository contains CloudFormation samples.
+This folder contains sample CloudFormation modules.  To add a new module, create a new folder and place your module in there.
+
 
 ## Security
 
